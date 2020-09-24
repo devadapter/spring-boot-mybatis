@@ -1,2 +1,2 @@
 # spring-boot-mybatis
-spring-boot集成mybaits搭配使用枚举
+spring-boot集成mybatis使用枚举
