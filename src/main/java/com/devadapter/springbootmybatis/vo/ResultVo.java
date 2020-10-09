@@ -1,4 +1,4 @@
-package com.devadapter.springbootmybatis.Vo;
+package com.devadapter.springbootmybatis.vo;
 
 
 import java.util.StringJoiner;
